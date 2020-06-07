@@ -1,5 +1,5 @@
 # LibraryManagementSystem
-developed a library management system using java , SQL
+developed a library management system using java , MySQL
 
 # Introduction
 
